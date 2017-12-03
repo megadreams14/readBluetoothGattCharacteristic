@@ -1,0 +1,9 @@
+raw
+node_modules
+*.log
+*.idea
+*.swp
+build/
+nyc_output
+coverage
+

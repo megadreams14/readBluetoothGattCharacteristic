@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5", // TSはECMAScript 5に変換
+//    "module": "es2015", // TSのモジュールはES Modulesとして出力
+    "module": "commonjs", // TSのモジュールはES Modulesとして出力
+    "outDir": "./build"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*",
+    "test/**/*"
+  ]
+}
