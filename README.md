@@ -1,0 +1,2 @@
+# bluetoothJS
+Bluetoothで取得したデータをJavaScriptで解析するための処理です。
