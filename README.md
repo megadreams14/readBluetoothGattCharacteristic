@@ -44,6 +44,6 @@ Bluetoothで取得したデータをJavaScriptで解析するための処理で�
 JavaScriptでバイナリデータを扱ったり、Blutoothの扱いに下記にてまとめております。
 
 - [[基礎編]JavaScriptでバイナリデータを扱ってみる](https://qiita.com/megadreams14/items/dded3cf770010bb8ff08)
-- [[応用編]JavaScriptでバイナリデータを扱ってみる~Bluetoothの温度データ形式を理解する~(1/3)]()
-- [[応用編]JavaScriptでバイナリデータを扱ってみる~IEEE-754とIEEE-11073の浮動小数点~(2/3)]()
-- [[応用編]JavaScriptでバイナリデータを扱ってみる~Bluetoothから取得した温度データを解析~(3/3)]()
+- [[応用編]JavaScriptでバイナリデータを扱ってみる Bluetoothの温度データ形式を理解する (1/3)](https://qiita.com/megadreams14/items/5e0faae03fdfbca2f7fa)
+- [[応用編]JavaScriptでバイナリデータを扱ってみる IEEE-754とIEEE-11073の浮動小数点 (2/3)](https://qiita.com/megadreams14/items/1c88e71d87970bc8ab90)
+- [[応用編]JavaScriptでバイナリデータを扱ってみる Bluetoothから取得した温度データを解析 (3/3)](https://qiita.com/megadreams14/items/dee8fcf50f373a1d755d)
